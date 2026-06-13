@@ -13,7 +13,7 @@ yapan, **sis bilişim (fog computing)** yaklaşımıyla tasarlanmış üç katma
   üstlenir: **PostgreSQL** + Mosquitto (MQTT) + alım servisi + pano.
 - **Bulut (Cloud):** Yalnızca **özet** veri; uzun dönem arşiv, analitik ve uzaktan erişim.
 
-Dozlama kararı düğümde verildiğinden, ağ veya yerel sunucu kesilse bile her sera güvenli çalışır.
+Dozlama kararı düğümde verildiğinden, ağ veya yerel sunucu kesilse bile her dozlama sisteme serada güvenli çalışır.
 
 **GitHub deposu:** https://github.com/huseyingokalp/OtomatikBesinDozlamaSistemi
 
