@@ -136,8 +136,6 @@ git remote add origin https://github.com/huseyingokalp/OtomatikBesinDozlamaSiste
 git push -u origin main
 ```
 
-Firmware (`firmware/`), veritabanı şeması (`database/`), diyagram kaynakları (`diagram/`) ve arayüzler (`web/`, `ios/`, `android/`; görseller `arayuz/`) bu depoda birlikte sürümlenir. Akademik proje raporu (`.docx`) depoya dâhil edilmez; ayrı olarak teslim edilir.
-
 ## Lisans
 MIT - bkz. [LICENSE](LICENSE).
 
